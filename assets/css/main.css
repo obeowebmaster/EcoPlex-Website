@@ -1,0 +1,16 @@
+h1, h2, h3, h4, .txt_main_color, .title {color: #2a47bd;}
+
+a, .popup-gallery a:hover, .linked_title a:hover,  .linked_title a:hover i{
+	color: #e8b137;
+}
+a:hover, a:active, a:focus, .linked_title a,
+#top-bar .main-menu li#dwnld > a:focus, .popup-gallery a{
+  color: #2a47bd;
+}
+
+.btn-default {
+    background-color: #e8b137;
+    border: 1px solid #e8b137;
+ }
+
+.btn-primary {color:#e8b137;}
